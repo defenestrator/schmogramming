@@ -1,0 +1,17 @@
+id: 9242876a-41c4-42f8-96f8-ac92d6025406
+title: Settings
+data:
+  site_name: 'Schmogramming'
+  social:
+    -
+      name: Twitter
+      url: 'https://twitter.com/flyfishidaho'
+      icon: site/social-icons/twitter.svg
+    -
+      name: Github
+      url: 'https://github.com/defenestrator'
+      icon: site/social-icons/github.svg
+    -
+      name: Email
+      url: 'mailto:jeremy@defenestrator.tech'
+      icon: site/social-icons/email.svg
